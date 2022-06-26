@@ -1,0 +1,1 @@
+Drop trigger DDL_UNIVER on database;
